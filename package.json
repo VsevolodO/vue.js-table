@@ -1,0 +1,27 @@
+{
+  "name": "vue.js-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VsevolodO/vue.js-table.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VsevolodO/vue.js-table/issues"
+  },
+  "homepage": "https://github.com/VsevolodO/vue.js-table#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "http": "0.0.1-security",
+    "mongoose": "^6.2.6",
+    "socket.io": "^4.4.1",
+    "ws": "^8.5.0"
+  }
+}
